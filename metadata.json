@@ -1,0 +1,5 @@
+{
+  "name": "Lithology Spec-Sheet Builder",
+  "description": "A standardized digital catalog builder for lithology research. Match Mohs hardness, luster, cleavage, and crystal system to generate professional spec-sheets.",
+  "requestFramePermissions": []
+}
